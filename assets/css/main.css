@@ -106,6 +106,13 @@ body.light-theme {
   display: none;
 }
 
+.d-grid {
+  display: grid;
+}
+.section {
+  padding-block: 5rem;
+}
+
 /* Header */
 .header {
   background-color: var(--secondary-background-color);
