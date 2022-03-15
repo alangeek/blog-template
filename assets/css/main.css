@@ -621,6 +621,21 @@ body.light-theme {
 }
 
 /* Scrollbar styles */
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f231a5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #f80f9b;
+}
 
 /* Blog post */
 
